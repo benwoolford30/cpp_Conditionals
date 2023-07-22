@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+#Ignore Certain Folders
+.vs
+Debug
+Release
